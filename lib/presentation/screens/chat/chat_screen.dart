@@ -22,7 +22,7 @@ class ChatScreen extends StatelessWidget {
         ),
         title: const Text('Mi amor ♥️'),
         centerTitle: false,
-      ),
+      ),// aaa
       body: _ChatView(),
     );
   }
