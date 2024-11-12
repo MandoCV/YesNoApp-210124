@@ -5,7 +5,6 @@
 |--|--|--|--|
 |22|Implementación de la UI para la Aplicación de Yes/No  |10|ACTIVA|
 |23|Implementación de la Funcionalidad de la Aplicación de Yes/No|10|ACTIVA|
-A new Flutter project.
 
 ## Getting Started
 
